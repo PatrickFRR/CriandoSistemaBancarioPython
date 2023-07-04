@@ -1,4 +1,4 @@
-# Desafio: Otimizando o Sistema Bancário em Python
+# Desafio 2: Otimizando o Sistema Bancário em Python
 
 ## Objetivo Geral
 Separar as funções existentes de saque, depósito e extrato em funções. 
